@@ -1,0 +1,25 @@
+
+|~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*
+|~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*
+|~~*
+|~~*	Simons Foundation Software Engineering Programming Project
+|~~*	Python command-line application analysis
+|~~*	Andrew Insignares
+|~~*
+|~~*	**************
+|~~*    Genome Length: 249250621
+|~~*    Regex Query Length: 4
+|~~*    Matches complete 
+|~~*    Runtime:  348.866491  seconds
+|~~*    
+|~~*    Data Output:
+|~~*    CSV Structure:
+|~~*     Sequence Count, Start Location, End Location 
+|~~*    
+|~~*    Highest Sequence Count:
+|~~*     2,6179849,6179855,
+|~~*    
+|~~*    Last Sequence Match:
+|~~*     0,249239868,249239868,
+|~~*    
+|~~*    
